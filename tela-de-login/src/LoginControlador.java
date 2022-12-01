@@ -1,5 +1,3 @@
-package fxml;
-
 import org.controlsfx.control.Notifications;
 
 import javafx.fxml.FXML;
